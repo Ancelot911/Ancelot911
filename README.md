@@ -18,7 +18,6 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ancelot911&count_private=true&show_icons=true&theme=cobalt" />
@@ -27,7 +26,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancelot911&layout=compact&show_icons=true&theme=cobalt" />
 </a>
 
-</details>
 
 [website]: http://portfoliofayolleancelot.000webhostapp.com/
 [twitter]: https://twitter.com/Ancelot_Az
