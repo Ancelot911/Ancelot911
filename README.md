@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning C/C++ intensely
 - 👯 I’m looking to collaborate with many people of my company
 - 🥅 2022 Goals: Be a beast in C/C++
-- ⚡ Fun fact: Y a pas de fun fact 
 
 ### Connect with me:
 
