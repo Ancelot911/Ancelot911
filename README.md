@@ -1,4 +1,4 @@
-### Hi there, I'm Ancelot - aka Le Chat Noir 👋
+### Hi there, I'm Ancelot
 
 ## Currently in the third year of a bachelor's degree in computer science specializing in software development
 
