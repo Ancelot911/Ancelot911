@@ -1,10 +1,10 @@
 ### Hi there, I'm Ancelot
 
-## Currently in the third year of a bachelor's degree in computer science specializing in software development
+## Currently in the final year of my Master's degree in computer science specializing in software development
 
 - 🌱 I’m currently learning C/C++ intensely
 - 👯 I’m looking to collaborate with many people of my company
-- 🥅 2022 Goals: Be a beast in C/C++
+- 🥅 2024 Goals: Be a beast in C/C++
 
 ### Connect with me:
 
